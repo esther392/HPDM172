@@ -1,5 +1,6 @@
 -- Use hospitals database
 USE hospitals_db;
+SHOW TABLES;
 
 -- Drop PATIENTS table if it already exists
 DROP TABLE IF EXISTS PATIENTS;
